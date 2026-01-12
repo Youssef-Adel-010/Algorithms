@@ -1,0 +1,44 @@
+Graph
+1. DFS
+  - Connected components
+  - Cycle detection
+  - Topological sort
+  - Flood fill
+
+2. BFS
+  - Shortest path (single source)
+  - Bipartite check
+  - Multi-source BFS
+  - Parent tracking
+
+3. Tree Diameter
+  - Using DFS
+  - Using BFS
+
+4. Tree Centers
+  - Using diameter
+  - Leaf shrinking
+
+5. Tree Isomorphism
+  - DFS canonical rooted
+  - BFS canonical unrooted
+
+6. Shortest Path Algorithms
+  - Dijkstra (SSSP)
+  - Bellman-Ford (SSSP with negative edges)
+  - Floyd-Warshall (APSP)
+    - Recursive top-down
+    - Memoized DP
+    - Bottom-up 3D DP
+    - In-place 2D DP (practical)
+    - Path reconstruction (Intermediate node / Previous node)
+rr
+7. Floyd-Warshall Applications
+  - Transitive closure
+  - Minimax path
+  - Maximin path
+  - Graph diameter
+  - Negative cycle detection
+  - Strongly connected components (SCC)
+  - Counting paths in DAGs
+  - Longest path in DAGs
